@@ -33,4 +33,4 @@ I will explore the data and try to answer some questions like :
 
 The aim of this project is to Identify and visualize which factors contribute to customer churn. Building a prediction model that will classify if a customer is going to churn or not. 
 
-<b> Pythonckages : </b> Numpy, Pandas, Sklearn, Matplotlib, Seaborn.
+<b> Python Packages : </b> Numpy, Pandas, Sklearn, Matplotlib, Seaborn.
